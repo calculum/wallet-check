@@ -1,0 +1,38 @@
+{
+  "name": "walletcheck",
+  "version": "1.0.0",
+  "description": "Final ReactJs Capstone Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jwt-decode": "^2.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "redux": "^3.7.2",
+    "redux-form": "^7.2.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "react-table": "^6.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u001b[2~\u001b[2~\u0016https://github.com/calculum/WalletCheck.git"
+  },
+  "keywords": [
+    "Wallat",
+    "Check"
+  ],
+  "author": "Bo",
+  "license": "ISC"
+}

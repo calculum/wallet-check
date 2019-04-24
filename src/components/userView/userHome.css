@@ -1,0 +1,23 @@
+.userHome {
+/*	height: 100vh;*/
+	margin-top: 5rem;
+	padding-top: 5rem;
+	padding-left: 1rem;
+	padding-bottom: 1rem;
+	background-color: #35545B;
+	color: #F6F6FA;
+}
+
+.userHome h2 {
+	text-align: center;
+}
+
+.userHello {
+	margin: 1rem;
+}
+
+@media only screen and (max-width: 843px) {
+	.userHome {
+		margin-top: 10rem;
+	}
+}

@@ -1,0 +1,59 @@
+#registerForm {
+	background-color: #35545B;
+	color: #F6F6FA;
+	text-align: center;
+	margin-top: 5rem;
+	padding-top: 8rem;
+	height: 100vh;
+}
+
+#registerForm a {
+	border-bottom: 1px solid #F6F6FA;
+}
+
+#registerForm a:visited {
+	color: #F6F6FA;
+}
+
+#registerForm a:hover {
+	font-weight: bold;
+}
+
+#registerForm input {
+	font-family: 'Lato', sans-serif; 
+	height: 4rem;
+	background-color: #35545B;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #F6F6FA;
+	padding-top: 1.5rem;
+	color: #F6F6FA;
+	text-align: center;
+}
+
+#registerForm input::placeholder {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: #F6F6FA;
+}
+
+#registerForm button {
+	font-family: 'Lato', sans-serif;
+	margin-top: 1rem;
+	height: 3rem;
+	color: #21434B;
+	background-color: #F6F6FA;
+	border: 1px solid #35545B;
+	width: 15rem;
+}
+
+.input {
+	width: 20em;
+	margin: 1rem auto;
+}
+
+@media only screen and (max-width: 843px) {
+	#registerForm {
+		margin-top: 10rem;
+	}
+}
