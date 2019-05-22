@@ -1,6 +1,6 @@
 <h1>Wallet Check</h1>
 
-<h2>Use Case</h2>
+<h2>Goal</h2>
 <p>This app helps personal planning and keep track of their budget.</p>
 
 <h2>Functionality</h2>
